@@ -3,6 +3,18 @@
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "后端简历",
+      "path": "ShonH/简历/后端简历.md"
+    },
+    {
+      "basename": "前端简历",
+      "path": "ShonH/简历/前端简历.md"
+    },
+    {
+      "basename": "欢迎",
+      "path": "欢迎.md"
     }
   ],
   "omittedPaths": []

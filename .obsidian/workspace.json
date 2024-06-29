@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fc490151053585bc",
+        "id": "b5abc189ed29cfd4",
         "type": "tabs",
         "children": [
           {
-            "id": "731944217f70a2e0",
+            "id": "91221f419a5f1cd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -147,33 +155,47 @@
   "left-ribbon": {
     "hiddenItems": {
       "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "switcher:打开快速切换": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "daily-notes:打开/创建今天的日记": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "copilot:Copilot Chat": false,
       "dbfolder:创建一个新数据库表": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-kanban:创建新看板": false,
+      "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false,
       "publish:发布更改": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "731944217f70a2e0",
+  "active": "91221f419a5f1cd6",
   "lastOpenFiles": [
-    "欢迎.md",
     "Home.md",
+    "ShonH/简历/后端简历.md",
+    "ShonH/简历/前端简历.md",
+    "Languages/未命名.md",
+    "ShonH/简历/前端简历",
+    "ShonH/简历",
+    "ShonH",
+    "CS/项目学习",
+    "CS/Go",
+    "CS/后端",
+    "CS/前端/React/NextJS",
+    "CS/前端/React",
+    "Languages/日语",
+    "Languages/英语",
+    "欢迎.md",
+    "未命名看板.md",
     "2024-06-29.md"
   ]
 }
